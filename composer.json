@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/_____",
+    "name": "chabibnr/_____",
     "type": "library",
     "description": "_____",
     "keywords": ["_____"],
@@ -20,12 +20,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Yiisoft\\_____\\": "src"
+            "Chabibnr\\_____\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Yiisoft\\_____\\Tests\\": "tests"
+            "Chabibnr\\_____\\Tests\\": "tests"
         }
     },
     "extra": {
